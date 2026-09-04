@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+venv/
+
+# Local application data
+*.db
+*.sqlite
+*.sqlite3
+reports/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.code-workspace
+__pycache__/
+
+# Course materials and generated presentation files
+*.docx
+*.pdf
+*.pptx
+PROMPT_ДЛЯ_ГЕНЕРАЦИИ_ПРЕЗЕНТАЦИИ.md
+restored_system/
+read_pptx.py
